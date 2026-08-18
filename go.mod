@@ -1,4 +1,4 @@
-module github.com/nvnazarov/sum
+module github.com/nvnazarov/sum/v2
 
 go 1.25.1
 

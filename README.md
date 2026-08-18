@@ -1,3 +1,3 @@
 # sum
 
-Sum module provides a single function - Add - which adds two integers.
+Sum module provides a single function - Add - which adds two numbers together.
